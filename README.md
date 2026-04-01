@@ -1,2 +1,32 @@
-# HTML-CSS-JAVA-portfolio
-This repository is for my html, css and java script projects portfolio
+# Portfolio Website
+
+Overview
+This is my personal portfolio website built using HTML, CSS, and JavaScript. It showcases my projects and skills developed throughout this course.
+
+Live Website
+
+
+Scripts Used
+
+* HTML
+* CSS
+* JavaScript
+
+Projects Included
+
+* Cake Shop Landing Page
+* Image Gallery with Lightbox (JavaScript)
+* Responsive Web Design Layout
+
+Features
+
+* Smooth scrolling navigation
+* Interactive image lightbox
+* Responsive design
+
+What I Learned
+
+* Structuring websites using HTML
+* Styling with CSS
+* Adding interactivity with JavaScript
+* Deploying websites using GitHub Pages
