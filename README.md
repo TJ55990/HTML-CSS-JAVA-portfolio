@@ -6,6 +6,8 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript. It 
 Live Website
 https://tj55990.github.io/One-page-website-assignment/
 
+PORTFOLIO- https://tj55990.github.io/HTML-CSS-JAVA-portfolio/
+
 
 
 Scripts Used
