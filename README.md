@@ -4,6 +4,8 @@ Overview
 This is my personal portfolio website built using HTML, CSS, and JavaScript. It showcases my projects and skills developed throughout this course.
 
 Live Website
+https://tj55990.github.io/One-page-website-assignment/
+
 
 
 Scripts Used
