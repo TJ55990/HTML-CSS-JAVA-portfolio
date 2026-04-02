@@ -18,7 +18,6 @@ Scripts Used
 
 Projects Included
 
-* Cake Shop Landing Page
 * Image Gallery with Lightbox (JavaScript)
 * Responsive Web Design Layout
 
